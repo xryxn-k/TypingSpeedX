@@ -1,0 +1,14 @@
+{
+  "name": "typing-speedx",
+  "version": "1.0.0",
+  "description": "TypingSpeedX - Competitive Typing Arena",
+  "private": true,
+  "scripts": {
+    "install:frontend": "cd frontend && npm install",
+    "build:frontend": "cd frontend && npm run build",
+    "install:backend": "cd backend && npm install",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && npm run dev"
+  }
+}
+
